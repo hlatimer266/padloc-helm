@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  padloc:
+  - apiVersion: v2
+    created: "2024-10-23T13:31:28.719147-07:00"
+    description: A Helm chart for Padloc
+    digest: 75a26c614b255b9f24ce408569506f3e505454b1dfcf54b30c302dcf5222f2a2
+    name: padloc
+    urls:
+    - https://github.com/hlatimer266/padloc-helm/tree/main/padloc-0.2.0.tgz
+    version: 0.2.0
+generated: "2024-10-23T13:31:28.718432-07:00"
